@@ -1,0 +1,10 @@
+The workflow for my work with FUTURES in GRASS was copied largely from the GRASS FUTURES tutorial availible here:
+https://grasswiki.osgeo.org/wiki/FUTURES_tutorial
+
+Unfortunately, I did most of this work early in the semester and I neglected to save a list of the specific GRASS commands I used. Future re-workings of this project will 
+include full documentation of my GRASS commands. All data for this project came from freely-availible federal sources, and can be provided on request.
+
+
+The Google Earth Engine component of my analysis is availble here:
+
+https://code.earthengine.google.com/?scriptPath=users%2Ftworm%2Fhw6%3ALightPollution
